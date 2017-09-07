@@ -3,3 +3,9 @@ function helloWorld(name) {
 }
 
 helloWorld("Bob");
+
+function thisIsAnotherFunction() {
+  return console.log("Hello There");
+}
+
+thisIsAnotherFunction();
